@@ -1,1 +1,1 @@
-# openshift and kuberenetes for beginners
+# openshift and kubernetes for beginners
